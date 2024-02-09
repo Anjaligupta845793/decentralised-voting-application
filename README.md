@@ -26,3 +26,4 @@ Once you have pasted your private key and contract address in the .env file, sim
 ```shell
 npm start
 ```
+# decentralised-voting-application
